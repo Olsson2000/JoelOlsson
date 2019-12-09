@@ -1,7 +1,7 @@
 package com.company;
 
 
-   public class main {
+   public class Main {
 
         public int add(int first, int second) {
 	// write your code here
