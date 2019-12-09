@@ -8,7 +8,6 @@ package com.company;
         return first;
     }
 
-        public int sub(int first, int second)
 
 }
 }
